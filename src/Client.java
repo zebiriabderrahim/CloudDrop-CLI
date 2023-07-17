@@ -3,8 +3,6 @@ import java.util.Scanner;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 /*
- * Gestionnaire de fichier
- * Chargé: Mehdi Kadi
  *
  * Client class that establishes a connection with a server and allows the user to upload and download files.
  * It uses sockets to communicate with the server and has a main loop to listen for server messages.
