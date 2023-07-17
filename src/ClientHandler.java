@@ -3,9 +3,6 @@ import java.net.Socket;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 /*
- * INF3405 Réseaux informatiques TP1 Groupe 04
- * Gestionnaire de fichier
- * Chargé: Mehdi Kadi
  *
  *`ClientHandler class handles commands from a client connected to a server via a socket.
  *`The code includes a constructor that sets up input and output streams and the socket number of the connected client.

@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 /*
- * INF3405 Réseaux informatiques TP1 Groupe 04
  * Gestionnaire de fichier
  * Chargé: Mehdi Kadi
  *
